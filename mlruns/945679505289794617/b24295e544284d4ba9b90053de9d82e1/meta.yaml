@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Peter/DataspellProjects/pythonProject/mlruns/945679505289794617/b24295e544284d4ba9b90053de9d82e1/artifacts
+end_time: 1702475137317
+entry_point_name: ''
+experiment_id: '945679505289794617'
+lifecycle_stage: active
+run_id: b24295e544284d4ba9b90053de9d82e1
+run_name: capable-chimp-406
+run_uuid: b24295e544284d4ba9b90053de9d82e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702465315667
+status: 4
+tags: []
+user_id: Peter

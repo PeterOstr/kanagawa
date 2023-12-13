@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Peter/DataspellProjects/pythonProject/mlruns/945679505289794617/9e1df9cf90d848c28027210e6a86df9d/artifacts
+end_time: 1702465280561
+entry_point_name: ''
+experiment_id: '945679505289794617'
+lifecycle_stage: active
+run_id: 9e1df9cf90d848c28027210e6a86df9d
+run_name: intrigued-skunk-328
+run_uuid: 9e1df9cf90d848c28027210e6a86df9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702465280498
+status: 4
+tags: []
+user_id: Peter

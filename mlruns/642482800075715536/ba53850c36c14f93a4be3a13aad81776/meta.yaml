@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Peter/DataspellProjects/pythonProject/mlruns/642482800075715536/ba53850c36c14f93a4be3a13aad81776/artifacts
+end_time: 1702463645893
+entry_point_name: ''
+experiment_id: '642482800075715536'
+lifecycle_stage: active
+run_id: ba53850c36c14f93a4be3a13aad81776
+run_name: delicate-dog-47
+run_uuid: ba53850c36c14f93a4be3a13aad81776
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702463645225
+status: 4
+tags: []
+user_id: Peter

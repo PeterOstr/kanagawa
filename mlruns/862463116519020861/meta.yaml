@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/Peter/DataspellProjects/pythonProject/mlruns/862463116519020861
+creation_time: 1702475280508
+experiment_id: '862463116519020861'
+last_update_time: 1702475280508
+lifecycle_stage: active
+name: MLflow_hype_optuna

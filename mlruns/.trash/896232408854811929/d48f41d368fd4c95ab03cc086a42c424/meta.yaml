@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Peter/DataspellProjects/pythonProject/mlruns/896232408854811929/d48f41d368fd4c95ab03cc086a42c424/artifacts
+deleted_time: 1702460273471
+end_time: 1702457907120
+entry_point_name: ''
+experiment_id: '896232408854811929'
+lifecycle_stage: deleted
+run_id: d48f41d368fd4c95ab03cc086a42c424
+run_name: nimble-cow-614
+run_uuid: d48f41d368fd4c95ab03cc086a42c424
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702457804999
+status: 3
+tags: []
+user_id: Peter

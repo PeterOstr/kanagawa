@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Peter/DataspellProjects/pythonProject/mlruns/862463116519020861/c6537fdfb31c4b42a3a63a359fa1ee31/artifacts
+end_time: 1702475555953
+entry_point_name: ''
+experiment_id: '862463116519020861'
+lifecycle_stage: active
+run_id: c6537fdfb31c4b42a3a63a359fa1ee31
+run_name: amusing-squid-316
+run_uuid: c6537fdfb31c4b42a3a63a359fa1ee31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702475555866
+status: 4
+tags: []
+user_id: Peter

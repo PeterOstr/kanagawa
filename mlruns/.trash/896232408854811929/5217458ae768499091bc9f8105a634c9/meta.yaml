@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Peter/DataspellProjects/pythonProject/mlruns/896232408854811929/5217458ae768499091bc9f8105a634c9/artifacts
+deleted_time: 1702460273471
+end_time: 1702458662022
+entry_point_name: ''
+experiment_id: '896232408854811929'
+lifecycle_stage: deleted
+run_id: 5217458ae768499091bc9f8105a634c9
+run_name: clumsy-skunk-419
+run_uuid: 5217458ae768499091bc9f8105a634c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702458581955
+status: 3
+tags: []
+user_id: Peter

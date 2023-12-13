@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Peter/DataspellProjects/pythonProject/mlruns/862463116519020861/90da33aa57b64240b44e7db88f74a12c/artifacts
+end_time: 1702475927526
+entry_point_name: ''
+experiment_id: '862463116519020861'
+lifecycle_stage: active
+run_id: 90da33aa57b64240b44e7db88f74a12c
+run_name: lyrical-ant-503
+run_uuid: 90da33aa57b64240b44e7db88f74a12c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702475632463
+status: 4
+tags: []
+user_id: Peter

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Peter/DataspellProjects/pythonProject/mlruns/862463116519020861/129e7a06e26a42919bc7bad074c9b075/artifacts
+end_time: 1702476512865
+entry_point_name: ''
+experiment_id: '862463116519020861'
+lifecycle_stage: active
+run_id: 129e7a06e26a42919bc7bad074c9b075
+run_name: kindly-wren-504
+run_uuid: 129e7a06e26a42919bc7bad074c9b075
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702476385941
+status: 4
+tags: []
+user_id: Peter

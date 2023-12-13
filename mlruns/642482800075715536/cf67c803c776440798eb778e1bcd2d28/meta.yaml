@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Peter/DataspellProjects/pythonProject/mlruns/642482800075715536/cf67c803c776440798eb778e1bcd2d28/artifacts
+end_time: 1702463894111
+entry_point_name: ''
+experiment_id: '642482800075715536'
+lifecycle_stage: active
+run_id: cf67c803c776440798eb778e1bcd2d28
+run_name: glamorous-frog-792
+run_uuid: cf67c803c776440798eb778e1bcd2d28
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702463894012
+status: 4
+tags: []
+user_id: Peter
