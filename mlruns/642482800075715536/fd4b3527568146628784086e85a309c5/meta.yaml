@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Peter/DataspellProjects/pythonProject/mlruns/642482800075715536/fd4b3527568146628784086e85a309c5/artifacts
+end_time: 1702482731562
+entry_point_name: ''
+experiment_id: '642482800075715536'
+lifecycle_stage: active
+run_id: fd4b3527568146628784086e85a309c5
+run_name: big-panda-647
+run_uuid: fd4b3527568146628784086e85a309c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702482731200
+status: 3
+tags: []
+user_id: Peter

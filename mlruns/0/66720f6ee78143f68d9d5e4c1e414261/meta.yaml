@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/Peter/DataspellProjects/pythonProject/mlruns/0/66720f6ee78143f68d9d5e4c1e414261/artifacts
+deleted_time: 1702498475888
 end_time: 1702452789625
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 66720f6ee78143f68d9d5e4c1e414261
 run_name: luxuriant-panda-642
 run_uuid: 66720f6ee78143f68d9d5e4c1e414261
