@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/Peter/DataspellProjects/pythonProject/mlruns/862463116519020861/4696410d756d47e593244a8fde59e987/artifacts
+deleted_time: 1702587827360
 end_time: 1702476667209
 entry_point_name: ''
 experiment_id: '862463116519020861'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 4696410d756d47e593244a8fde59e987
 run_name: lyrical-swan-383
 run_uuid: 4696410d756d47e593244a8fde59e987

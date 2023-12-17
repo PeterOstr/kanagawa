@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/Peter/DataspellProjects/pythonProject/mlruns/642482800075715536/e453315db7b24a1f832e3a5fa38c06a4/artifacts
+deleted_time: 1702588099518
 end_time: 1702463948712
 entry_point_name: ''
 experiment_id: '642482800075715536'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: e453315db7b24a1f832e3a5fa38c06a4
 run_name: colorful-quail-102
 run_uuid: e453315db7b24a1f832e3a5fa38c06a4

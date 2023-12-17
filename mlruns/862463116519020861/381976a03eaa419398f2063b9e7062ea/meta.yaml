@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/Peter/DataspellProjects/pythonProject/mlruns/862463116519020861/381976a03eaa419398f2063b9e7062ea/artifacts
+deleted_time: 1702587827361
 end_time: 1702476889867
 entry_point_name: ''
 experiment_id: '862463116519020861'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 381976a03eaa419398f2063b9e7062ea
 run_name: treasured-ox-111
 run_uuid: 381976a03eaa419398f2063b9e7062ea

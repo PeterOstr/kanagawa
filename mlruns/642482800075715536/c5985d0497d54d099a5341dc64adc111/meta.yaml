@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/Peter/DataspellProjects/pythonProject/mlruns/642482800075715536/c5985d0497d54d099a5341dc64adc111/artifacts
+deleted_time: 1702588099547
 end_time: 1702460350512
 entry_point_name: ''
 experiment_id: '642482800075715536'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: c5985d0497d54d099a5341dc64adc111
 run_name: merciful-hound-139
 run_uuid: c5985d0497d54d099a5341dc64adc111

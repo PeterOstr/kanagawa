@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/Peter/DataspellProjects/pythonProject/mlruns/862463116519020861/10aef7eb12bb48ddb109779d86d2cabe/artifacts
+deleted_time: 1702587819236
 end_time: 1702476051624
 entry_point_name: ''
 experiment_id: '862463116519020861'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 10aef7eb12bb48ddb109779d86d2cabe
 run_name: exultant-stag-455
 run_uuid: 10aef7eb12bb48ddb109779d86d2cabe

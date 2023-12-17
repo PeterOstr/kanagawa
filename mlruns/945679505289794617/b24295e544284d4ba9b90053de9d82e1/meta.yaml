@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/Peter/DataspellProjects/pythonProject/mlruns/945679505289794617/b24295e544284d4ba9b90053de9d82e1/artifacts
+deleted_time: 1702588085202
 end_time: 1702475137317
 entry_point_name: ''
 experiment_id: '945679505289794617'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: b24295e544284d4ba9b90053de9d82e1
 run_name: capable-chimp-406
 run_uuid: b24295e544284d4ba9b90053de9d82e1

@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/Peter/DataspellProjects/pythonProject/mlruns/642482800075715536/fec87a0e268044b0a851a1da0cd17f28/artifacts
+deleted_time: 1702588099535
 end_time: 1702463773684
 entry_point_name: ''
 experiment_id: '642482800075715536'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: fec87a0e268044b0a851a1da0cd17f28
 run_name: victorious-tern-228
 run_uuid: fec87a0e268044b0a851a1da0cd17f28

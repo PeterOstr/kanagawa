@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/Peter/DataspellProjects/pythonProject/mlruns/862463116519020861/efdb2046f5db4e85b68928bd8ccacc3e/artifacts
+deleted_time: 1702587827361
 end_time: 1702476946426
 entry_point_name: ''
 experiment_id: '862463116519020861'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: efdb2046f5db4e85b68928bd8ccacc3e
 run_name: shivering-zebra-937
 run_uuid: efdb2046f5db4e85b68928bd8ccacc3e

@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/Peter/DataspellProjects/pythonProject/mlruns/642482800075715536/c0ba224b99bc43e8bf6e73f751420609/artifacts
+deleted_time: 1702588099516
 end_time: 1702464820279
 entry_point_name: ''
 experiment_id: '642482800075715536'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: c0ba224b99bc43e8bf6e73f751420609
 run_name: handsome-wolf-507
 run_uuid: c0ba224b99bc43e8bf6e73f751420609

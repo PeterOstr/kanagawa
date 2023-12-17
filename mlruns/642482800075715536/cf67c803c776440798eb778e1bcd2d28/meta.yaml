@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/Peter/DataspellProjects/pythonProject/mlruns/642482800075715536/cf67c803c776440798eb778e1bcd2d28/artifacts
+deleted_time: 1702588099534
 end_time: 1702463894111
 entry_point_name: ''
 experiment_id: '642482800075715536'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: cf67c803c776440798eb778e1bcd2d28
 run_name: glamorous-frog-792
 run_uuid: cf67c803c776440798eb778e1bcd2d28

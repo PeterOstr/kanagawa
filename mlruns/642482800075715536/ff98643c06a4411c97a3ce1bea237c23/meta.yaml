@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/Peter/DataspellProjects/pythonProject/mlruns/642482800075715536/ff98643c06a4411c97a3ce1bea237c23/artifacts
+deleted_time: 1702588099516
 end_time: 1702481769385
 entry_point_name: ''
 experiment_id: '642482800075715536'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: ff98643c06a4411c97a3ce1bea237c23
 run_name: rebellious-snake-614
 run_uuid: ff98643c06a4411c97a3ce1bea237c23

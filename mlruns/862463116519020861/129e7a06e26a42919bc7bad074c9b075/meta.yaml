@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/Peter/DataspellProjects/pythonProject/mlruns/862463116519020861/129e7a06e26a42919bc7bad074c9b075/artifacts
+deleted_time: 1702587827358
 end_time: 1702476512865
 entry_point_name: ''
 experiment_id: '862463116519020861'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 129e7a06e26a42919bc7bad074c9b075
 run_name: kindly-wren-504
 run_uuid: 129e7a06e26a42919bc7bad074c9b075

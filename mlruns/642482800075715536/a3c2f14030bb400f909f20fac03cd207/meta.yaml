@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/Peter/DataspellProjects/pythonProject/mlruns/642482800075715536/a3c2f14030bb400f909f20fac03cd207/artifacts
+deleted_time: 1702588099517
 end_time: 1702463997652
 entry_point_name: ''
 experiment_id: '642482800075715536'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: a3c2f14030bb400f909f20fac03cd207
 run_name: shivering-hound-682
 run_uuid: a3c2f14030bb400f909f20fac03cd207

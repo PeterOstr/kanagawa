@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/Peter/DataspellProjects/pythonProject/mlruns/862463116519020861/90da33aa57b64240b44e7db88f74a12c/artifacts
+deleted_time: 1702587819239
 end_time: 1702475927526
 entry_point_name: ''
 experiment_id: '862463116519020861'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 90da33aa57b64240b44e7db88f74a12c
 run_name: lyrical-ant-503
 run_uuid: 90da33aa57b64240b44e7db88f74a12c
