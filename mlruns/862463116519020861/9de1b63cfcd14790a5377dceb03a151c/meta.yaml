@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Peter/DataspellProjects/pythonProject/mlruns/862463116519020861/9de1b63cfcd14790a5377dceb03a151c/artifacts
+end_time: 1702839281176
+entry_point_name: ''
+experiment_id: '862463116519020861'
+lifecycle_stage: active
+run_id: 9de1b63cfcd14790a5377dceb03a151c
+run_name: persistent-swan-553
+run_uuid: 9de1b63cfcd14790a5377dceb03a151c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702839234937
+status: 4
+tags: []
+user_id: Peter

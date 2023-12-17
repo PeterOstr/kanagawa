@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Peter/DataspellProjects/pythonProject/mlruns/862463116519020861/c8399e3c0ba043dbb78ab141c3cb396a/artifacts
+end_time: 1702839233873
+entry_point_name: ''
+experiment_id: '862463116519020861'
+lifecycle_stage: active
+run_id: c8399e3c0ba043dbb78ab141c3cb396a
+run_name: redolent-newt-561
+run_uuid: c8399e3c0ba043dbb78ab141c3cb396a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702839202764
+status: 4
+tags: []
+user_id: Peter
