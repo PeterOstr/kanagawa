@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/Peter/DataspellProjects/pythonProject/mlruns/862463116519020861/acab3aaaab9049d6ac7b49152af4d472/artifacts
+deleted_time: 1703656568021
 end_time: 1702839194539
 entry_point_name: ''
 experiment_id: '862463116519020861'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: acab3aaaab9049d6ac7b49152af4d472
 run_name: brawny-ape-990
 run_uuid: acab3aaaab9049d6ac7b49152af4d472

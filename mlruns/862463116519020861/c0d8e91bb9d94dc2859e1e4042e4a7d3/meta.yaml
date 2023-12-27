@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/Peter/DataspellProjects/pythonProject/mlruns/862463116519020861/c0d8e91bb9d94dc2859e1e4042e4a7d3/artifacts
+deleted_time: 1703656568026
 end_time: 1702839480356
 entry_point_name: ''
 experiment_id: '862463116519020861'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: c0d8e91bb9d94dc2859e1e4042e4a7d3
 run_name: xgb_optuna_run
 run_uuid: c0d8e91bb9d94dc2859e1e4042e4a7d3

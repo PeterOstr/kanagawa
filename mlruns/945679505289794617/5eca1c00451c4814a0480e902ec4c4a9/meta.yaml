@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/Peter/DataspellProjects/pythonProject/mlruns/945679505289794617/5eca1c00451c4814a0480e902ec4c4a9/artifacts
+deleted_time: 1703656553306
 end_time: 1702546185302
 entry_point_name: ''
 experiment_id: '945679505289794617'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 5eca1c00451c4814a0480e902ec4c4a9
 run_name: kindly-wasp-523
 run_uuid: 5eca1c00451c4814a0480e902ec4c4a9

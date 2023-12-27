@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/Peter/DataspellProjects/pythonProject/mlruns/862463116519020861/f17cd43d481549cbbd4c769e675e3d7c/artifacts
+deleted_time: 1703656568007
 end_time: 1702547134747
 entry_point_name: ''
 experiment_id: '862463116519020861'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: f17cd43d481549cbbd4c769e675e3d7c
 run_name: defiant-midge-867
 run_uuid: f17cd43d481549cbbd4c769e675e3d7c

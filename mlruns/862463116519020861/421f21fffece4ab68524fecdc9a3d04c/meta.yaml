@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/Peter/DataspellProjects/pythonProject/mlruns/862463116519020861/421f21fffece4ab68524fecdc9a3d04c/artifacts
+deleted_time: 1703656568017
 end_time: 1702838721890
 entry_point_name: ''
 experiment_id: '862463116519020861'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 421f21fffece4ab68524fecdc9a3d04c
 run_name: abrasive-penguin-403
 run_uuid: 421f21fffece4ab68524fecdc9a3d04c

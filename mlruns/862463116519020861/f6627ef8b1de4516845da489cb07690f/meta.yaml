@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/Peter/DataspellProjects/pythonProject/mlruns/862463116519020861/f6627ef8b1de4516845da489cb07690f/artifacts
+deleted_time: 1703656568007
 end_time: 1702547132049
 entry_point_name: ''
 experiment_id: '862463116519020861'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: f6627ef8b1de4516845da489cb07690f
 run_name: bouncy-sow-199
 run_uuid: f6627ef8b1de4516845da489cb07690f

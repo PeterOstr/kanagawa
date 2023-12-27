@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/Peter/DataspellProjects/pythonProject/mlruns/862463116519020861/9981f984a99e4d019f1c457197108a96/artifacts
+deleted_time: 1703656568005
 end_time: 1702477008070
 entry_point_name: ''
 experiment_id: '862463116519020861'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 9981f984a99e4d019f1c457197108a96
 run_name: powerful-goose-493
 run_uuid: 9981f984a99e4d019f1c457197108a96

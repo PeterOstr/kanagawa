@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/Peter/DataspellProjects/pythonProject/mlruns/945679505289794617/b37f1ab21190439b8f96ac7394572f85/artifacts
+deleted_time: 1703656553305
 end_time: 1702546184646
 entry_point_name: ''
 experiment_id: '945679505289794617'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: b37f1ab21190439b8f96ac7394572f85
 run_name: languid-skunk-663
 run_uuid: b37f1ab21190439b8f96ac7394572f85

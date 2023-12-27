@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/Peter/DataspellProjects/pythonProject/mlruns/642482800075715536/b86be4ebba914c45b7764062f47460be/artifacts
+deleted_time: 1703656542152
 end_time: 1702482731027
 entry_point_name: ''
 experiment_id: '642482800075715536'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: b86be4ebba914c45b7764062f47460be
 run_name: adventurous-lark-754
 run_uuid: b86be4ebba914c45b7764062f47460be
