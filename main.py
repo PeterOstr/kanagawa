@@ -14,6 +14,7 @@ class Data_transfer(BaseModel):
     data_sample: str
 
 class CombinedData(BaseModel):
+    index: List
     gender: List
     age: List
     hypertension: List
@@ -36,8 +37,9 @@ async def root():
 @app.post("/model/predict")
 async def predict(data: CombinedData):
     data = pd.read_json(data.model_dump_json(), orient='list')
+    data = data.set_index('index')
     model_prediction = pd.DataFrame(np.round(model.predict(data)))
-    model_prediction = model_prediction.to_json()
+    model_prediction = model_prediction.reset_index().to_json()
     return model_prediction
 
 @app.post("/model/combined")
