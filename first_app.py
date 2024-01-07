@@ -27,11 +27,66 @@ page = st.sidebar.selectbox("Choose page",
                             ["Charts",
                              "Other"])
 
+# File uploader
+uploaded_file = st.sidebar.file_uploader("Upload y_pred.csv file", type=["csv"])
+
+# Placeholder for dataframes
+y = pd.DataFrame()
+y_pred = pd.DataFrame()
+
+if uploaded_file is not None:
+    y_pred = pd.read_csv(uploaded_file)
+    y = pd.read_csv('y.csv')
 
 if page == "Charts":
     st.header("""Charts Demo""")
 
+    if not y_pred.empty:
+        st.write('f1_score:', np.round(f1_score(y, y_pred), 3))
+        st.write('r2_score:', np.round(r2_score(y_pred, y), 3))
+        st.write('balanced_accuracy_score:', np.round(balanced_accuracy_score(y_pred, y), 3))
 
+        # Calculate ROC AUC
+        fpr, tpr, thresholds = roc_curve(y, y_pred)
+        roc_auc = roc_auc_score(y, y_pred)
+
+        # Plot ROC curve
+        plt.figure(figsize=(8, 8))
+        plt.plot(fpr, tpr, color='darkorange', lw=2, label='ROC curve (area = {:.2f})'.format(roc_auc))
+        plt.plot([0, 1], [0, 1], color='navy', lw=2, linestyle='--')
+        plt.xlabel('False Positive Rate')
+        plt.ylabel('True Positive Rate')
+        plt.title('Receiver Operating Characteristic (ROC) Curve')
+        plt.legend(loc='lower right')
+        st.pyplot(plt)
+
+        # Plot precision recall
+        # calculate precision and recall
+        precision, recall, thresholds = precision_recall_curve(y_pred, y)
+
+        # create precision recall curve
+        fig, ax = plt.subplots()
+        ax.plot(recall, precision, color='purple')
+
+        # add axis labels to plot
+        ax.set_title('Precision-Recall Curve')
+        ax.set_ylabel('Precision')
+        ax.set_xlabel('Recall')
+
+        # display plot
+        st.pyplot(plt)
+
+        # Confusion Matrix
+        cm = confusion_matrix(y, y_pred)
+
+        # Normalize the confusion matrix
+        cm_percentage = cm.astype('float') / cm.sum(axis=1)[:, np.newaxis]
+
+        # Display the confusion matrix
+        fig, ax = plt.subplots()
+        ConfusionMatrixDisplay(confusion_matrix=cm_percentage, display_labels=[0, 1]).plot(cmap='Blues', ax=ax)
+        ax.set_title('Confusion Matrix (Normalized)')
+        st.pyplot(fig)
 
     y_pred = pd.read_csv('y_pred.csv')
     y = pd.read_csv('y.csv')
@@ -72,14 +127,22 @@ if page == "Charts":
     st.pyplot(plt)
 
 
-    #Confusion Matrix
+    # Confusion Matrix
+    cm = confusion_matrix(y, y_pred)
 
-    ConfusionMatrixDisplay.from_predictions(y, y_pred)
+    # Normalize the confusion matrix
+    cm_percentage = cm.astype('float') / cm.sum(axis=1)[:, np.newaxis]
 
-    st.pyplot(plt)
+    # Display the confusion matrix
+    fig, ax = plt.subplots()
+    ConfusionMatrixDisplay(confusion_matrix=cm_percentage, display_labels=[0, 1]).plot(cmap='Blues', ax=ax)
+    ax.set_title('Confusion Matrix (Normalized)')
+    st.pyplot(fig)
 
-elif page == "Iris Dataset":
-    st.header("""Сгенерировать N случайных событий из распределения Фреше с функцией распределения:""")
+
+
+elif page == "Other ":
+    st.header("""Other test page:""")
 
 
 
