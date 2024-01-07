@@ -1,1 +1,5 @@
 /mlruns/
+10_percent_X_test.csv
+10_percent_y_pred.csv
+10_percent_y_test.csv
+y_pred_mod_compare.csv
